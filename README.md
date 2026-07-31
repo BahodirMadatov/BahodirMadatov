@@ -40,7 +40,7 @@ React admin CMS.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **PCalc** | Trilingual AI project estimator with a deterministic pricing engine. In production. | Next.js, TS, Drizzle, Gemini |
+| **[PCalc](https://github.com/BahodirMadatov/pcalc-ai-project-estimator)** | Trilingual AI project estimator with a deterministic pricing engine. In production. | Next.js, TS, Drizzle, Gemini |
 | **CommAI** | AI speech-analysis platform for university English courses. Led a team of 4, full lifecycle. [ai.commlabaut.com](https://ai.commlabaut.com) | Python, real-time speech models |
 | **CommLabAUT** | Course and speech-recording platform used by 80+ students. [commlabaut.com](https://commlabaut.com) | Vue |
 | **Cinemabek** | Video streaming platform built from scratch. | TypeScript |
